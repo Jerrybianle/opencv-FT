@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FT">
+</Property><Property Name="解决方案文件" Value="E:\study\李鹏飞141035017\141035017李鹏飞\程序\system\FT.sln">
+</Property><Property Name="用户选项文件" Value="E:\study\李鹏飞141035017\141035017李鹏飞\程序\system\FT.suo">
+</Property><Property Name="Date" Value="2016年7月14日">
+</Property><Property Name="Time" Value="19:21">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FT.sln" Description="文件已成功备份为 E:\study\李鹏飞141035017\141035017李鹏飞\程序\system\FT.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="FT.suo" Description="文件已成功备份为 E:\study\李鹏飞141035017\141035017李鹏飞\程序\system\FT.suo.old">
+</Event><Event ErrorLevel="0" Project="CompressiveTracking" Source="CompressiveTracking\CompressiveTracking.vcproj" Description="Converting project file 'E:\study\李鹏飞141035017\141035017李鹏飞\程序\system\CompressiveTracking\CompressiveTracking.vcproj'.">
+</Event><Event ErrorLevel="1" Project="CompressiveTracking" Source="CompressiveTracking\CompressiveTracking.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="CompressiveTracking" Source="CompressiveTracking\CompressiveTracking.vcproj" Description="Done converting to new project file 'E:\study\李鹏飞141035017\141035017李鹏飞\程序\system\CompressiveTracking\CompressiveTracking.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="CompressiveTracking" Source="CompressiveTracking\CompressiveTracking.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FT.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="FT.sln" Description="Converted">
+</Event></UpgradeLog>
